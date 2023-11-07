@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+p {
+  font-size: 20px; /* Cambia el tamaño de fuente según tus preferencias */
+  text-align: center; /* Centra el texto horizontalmente */
+  color: #333; /* Cambia el color de texto según tus preferencias */
+  margin-top: 80px; /* Agrega espacio superior para separarlo del título */
+}
+
+.card-group{
+  max-width: 1000px;
+  margin-top: 80px;
+  margin-left: 400px;
+
+}
