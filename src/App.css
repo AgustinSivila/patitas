@@ -1,5 +1,12 @@
 .App {
   text-align: center;
+ 
+  
+}
+.navbar-brand {
+  font-size: 50px !important;
+  font-weight: bold;
+  /* Otros estilos que desees aplicar */
 }
 
 
@@ -13,6 +20,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+ 
 }
 
 
@@ -27,5 +35,10 @@ p {
   max-width: 1000px;
   margin-top: 80px;
   margin-left: 400px;
+
+}
+
+.adopcion{ color: black;
+
 
 }
